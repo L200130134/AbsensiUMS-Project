@@ -3,7 +3,7 @@ Thesis Adviser/Superviser: Ir. Bana Handaga, M.T., Ph.D.
 Title: Aplikasi android pencatatan kehadiran kuliah secara real time menggunakan QR code dan mobile vision di Universitas Muhammadiyah Surakarta
 ---
 
-Skripsi Absensi UMS
+Absensi UMS Thesis
 =========
 
 Recording lecture attendance in real time using QR code and mobile vision.
