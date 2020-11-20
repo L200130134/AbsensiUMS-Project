@@ -15,8 +15,8 @@ Click image to view.
 
 ### Screenshoots
 
-[![main refresh](https://github.com/L200130134/AbsensiUMS-Project/raw/main/screenshoots/Screenshot_20190726-052607.png)](https://github.com/L200130134/AbsensiUMS-Project/raw/master/screenshoots/Screenshot_20190726-052607.png)
-[![main refresh](https://github.com/L200130134/AbsensiUMS-Project/raw/main/screenshoots/Screenshot_20190726-052607.png)](https://github.com/L200130134/AbsensiUMS-Project/raw/master/screenshoots/Screenshot_20190726-052607.png)
+[![main refresh](https://github.com/L200130134/AbsensiUMS-Project/raw/main/screenshoots/preview/Screenshot_20190726-052607.png)](https://github.com/L200130134/AbsensiUMS-Project/raw/master/screenshoots/Screenshot_20190726-052607.png)
+[![main refresh](https://github.com/L200130134/AbsensiUMS-Project/raw/main/screenshoots/preview/Screenshot_20190726-052607.png)](https://github.com/L200130134/AbsensiUMS-Project/raw/master/screenshoots/Screenshot_20190726-052607.png)
 
 Commit For
 -----------
